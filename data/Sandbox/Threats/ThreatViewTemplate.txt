@@ -17,8 +17,11 @@
 </table>
 </div>
 
----+%MAKETEXT{"Description"}%
+<div class="widgetBlockTitle">%MAKETEXT{"Description"}%</div>
+<div class="widgetBlockContent">
 %TMPL:PREV%
+</div>
+
 %TMPL:END%
 
 %META:PREFERENCE{name="NOWYSIWYG" title="NOWYSIWYG" type="Set" value="1"}%
