@@ -1,0 +1,5 @@
+%META:TOPICINFO{author="BaseUserMapping_333" comment="reprev" date="1402921047" format="1.1" reprev="1" version="3"}%
+   * <a href="%SCRIPTURLPATH{"edit"}%/%BASEWEB%/ThreatAUTOINC0000?templatetopic=%WEB%.ThreatTemplate;formtemplate=ThreatForm;template=%WEB%.ThreatEditTemplate;t=%GMTIME{$epoch}%">%MAKETEXT{"Create new threat"}%</a>
+
+%META:PREFERENCE{name="ALLOWTOPICCHANGE" title="ALLOWTOPICCHANGE" type="Set" value="AdminGroup"}%
+%META:PREFERENCE{name="NOWYSIWYG" title="NOWYSIWYG" type="Set" value="1"}%

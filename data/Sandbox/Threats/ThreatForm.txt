@@ -1,0 +1,11 @@
+%META:TOPICINFO{author="BaseUserMapping_333" comment="reprev" date="1402920928" format="1.1" reprev="1" version="3"}%
+| *Name* | *Type* | *Size* | *Values* | *Tooltip message* | *Attributes* |
+| TopicTitle | text | 50 | | %MAKETEXT{"Name"}% | M |
+| Chapter | text | 50 | | %MAKETEXT{"Chapter"}% | M |
+| Category | text | 50 | | %MAKETEXT{"Category"}% | M |
+| Reference | text | 50 | | %MAKETEXT{"Reference"}% | M |
+| Effective | text | 50 | | %MAKETEXT{"Effective"}% | M |
+
+
+%META:PREFERENCE{name="NOWYSIWYG" title="NOWYSIWYG" type="Set" value="1"}%
+%META:PREFERENCE{name="ALLOWTOPICCHANGE" title="ALLOWTOPICCHANGE" type="Set" value="AdminGroup"}%

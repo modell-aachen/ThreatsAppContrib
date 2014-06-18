@@ -1,0 +1,45 @@
+# German translation for the Threats-Application
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: Foswiki $Id\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2012-11-26 00:09+0200\n"
+"Last-Translator: Bartek \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+
+msgid "Category"
+msgstr "Kategorie"
+
+msgid "Chapter"
+msgstr "Kapitel"
+
+msgid "Create new threat"
+msgstr "Neue Gefährdung anlegen"
+
+msgid "Description"
+msgstr "Beschreibung"
+
+msgid "Effective"
+msgstr "Stand"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Reference"
+msgstr "Referenz"
+
+msgid "Threat data"
+msgstr "Gefährdungsdaten"
+
+msgid "Threat management"
+msgstr "Gefährdungsmanagement"
+

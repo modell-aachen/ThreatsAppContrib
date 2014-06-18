@@ -1,0 +1,19 @@
+%META:TOPICINFO{author="BaseUserMapping_333" comment="reprev" date="1402921095" format="1.1" reprev="6" version="8"}%
+<div class="widgetBlockTitle">%MAKETEXT{"Threat management"}%</div>
+<div class="widgetBlockContent">
+%TABLE{%TABLETHEMEPARAM%}%
+| *%MAKETEXT{"Name"}%* | *%MAKETEXT{"Chapter"}%* | *%MAKETEXT{"Category"}%* |
+%SOLRSEARCH{
+"form:*ThreatForm"
+fields="web, topic, field_TopicTitle_s, field_Chapter_s, field_Category_s"
+header=""
+format="| [[$web.$topic][$field_TopicTitle_s]] | $field_Chapter_s | $field_Category_s | $n"
+footer=""
+rows="99999"
+sort="topic asc"
+}%
+</div>
+
+%META:PREFERENCE{name="ALLOWTOPICCHANGE" title="ALLOWTOPICCHANGE" type="Set" value="AdminGroup"}%
+%META:PREFERENCE{name="NOWYSIWYG" title="NOWYSIWYG" type="Set" value="1"}%
+%META:PREFERENCE{name="VIEW_TEMPLATE" title="VIEW_TEMPLATE" type="Set" value="SystemView"}%

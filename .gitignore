@@ -1,0 +1,4 @@
+*.lease
+*.txt,v
+*.changes
+Threat[0-9]*.txt

@@ -1,0 +1,6 @@
+%META:TOPICINFO{author="BaseUserMapping_333" date="1399992390" format="1.1" version="12"}%
+<!--
+   * Set VIEW_TEMPLATE = ContentTemplatesView
+   * Set WORKFLOW =
+   * Set ALLOWTOPICCHANGE = AdminUser
+-->

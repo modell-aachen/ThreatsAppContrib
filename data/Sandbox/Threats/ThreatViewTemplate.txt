@@ -1,0 +1,25 @@
+%META:TOPICINFO{author="BaseUserMapping_333" comment="reprev" date="1402996220" format="1.1" reprev="2" version="2"}%
+%TMPL:INCLUDE{view}%
+
+%TMPL:DEF{"modacMore"}%
+%TMPL:END%
+
+%TMPL:DEF{"content"}%%TMPL:P{"simpleheader"}%
+
+<div class="widgetBlockTitle">%MAKETEXT{"Threat data"}%</div>
+<div class="widgetBlockContent">
+<table class="metaDataHead">
+<tr><td width="300px;">%MAKETEXT{"Name"}%:</td><td>%RENDERFORDISPLAY{field="TopicTitle" format="$value"}%</td></tr>
+<tr><td>%MAKETEXT{"Chapter"}%:</td><td>%RENDERFORDISPLAY{field="Chapter" format="$value"}%</td></tr>
+<tr><td>%MAKETEXT{"Category"}%:</td><td>%RENDERFORDISPLAY{field="Category" format="$value"}%</td></tr>
+<tr><td>%MAKETEXT{"Reference"}%:</td><td>[[%RENDERFORDISPLAY{field="Reference" format="$value"}%]]</td></tr>
+<tr><td>%MAKETEXT{"Effective"}%:</td><td>%RENDERFORDISPLAY{field="Effective" format="$value"}%</td></tr>
+</table>
+</div>
+
+---+%MAKETEXT{"Description"}%
+%TMPL:PREV%
+%TMPL:END%
+
+%META:PREFERENCE{name="NOWYSIWYG" title="NOWYSIWYG" type="Set" value="1"}%
+%META:PREFERENCE{name="ALLOWTOPICCHANGE" title="ALLOWTOPICCHANGE" type="Set" value="AdminGroup"}%

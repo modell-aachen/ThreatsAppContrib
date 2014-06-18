@@ -1,0 +1,7 @@
+%META:TOPICINFO{author="BaseUserMapping_333" date="1402915265" format="1.1" version="2"}%
+%STARTSECTION{type="templateonly"}%
+   * Set ALLOWTOPICCHANGE = AdminGroup
+%ENDSECTION{type="templateonly"}%
+
+%META:PREFERENCE{name="VIEW_TEMPLATE" title="VIEW_TEMPLATE" type="Set" value="ThreatView"}%
+%META:PREFERENCE{name="EDIT_TEMPLATE" title="EDIT_TEMPLATE" type="Set" value="ThreatEdit"}%
