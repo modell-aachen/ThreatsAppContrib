@@ -40,6 +40,9 @@ msgstr "Referenz"
 msgid "Threat data"
 msgstr "Gefährdungsdaten"
 
+msgid "Threats"
+msgstr "Gefährdungen"
+
 msgid "Threat management"
 msgstr "Gefährdungsmanagement"
 
